@@ -8,7 +8,7 @@ draft: false
 
 ICAPS'23 Workshop
 Prague, Czech Republic
-July 9-10, 2023
+July 9, 2023
 
 ## Aim and Scope of the Workshop
 
@@ -41,7 +41,7 @@ Topics of the workshop include, but are not limited to:
  - Paper submission: ~~March 24, 2023~~ **April 4, 2023**
  - Notification: ~~April 14, 2023~~ **April 28, 2023**
  - Camera-ready: ~~April 25, 2023~~ **May 22, 2023**
- - Workshop dates: July 9-10, 2023
+ - Workshop dates: July 9, 2023
  - Conference dates: July 8-13, 2023
 
 ## Submission Details
@@ -96,4 +96,26 @@ Contact: spark2023@easychair.org
 
 ## Workshop Schedule
 
-TBD
+[9:00 - 9:15] - Workshop Open
+---
+[9:15 - 10:30] - **First session**
+ - "Supporting Decision-Making for City Management through Automated Planning and Execution". Riccardo De Benedictis, Gloria Beraldo, Amedeo Cesta and Gabriella Cortellessa.
+ - "PARIS: Planning Algorithms for Reconfiguring Independent Sets". Remo Christen, Salomé Eriksson, Michael Katz, Christian Muise, Alice Petrov, Florian Pommerening, Jendrik Seipp, Silvan Sievers and David Speck.
+ - "Planning for Proofs". Alice Petrov and Christian Muise.
+---
+[10:30 - 11:00] - Coffee Break
+---
+[11:00 - 12:30] - Panel
+**Challenges and Opportunities in AI Planning and Scheduling in applications**
+---
+[12:30-2:15] Lunch
+---
+[2:15 - 3:30] - **Second session**
+ - "Modelling the Spread of COVID-19 in Indoor Spaces using Automated Probabilistic Planning". Mohamed Harmanani.
+ - "Using Planning to Construct Code Reuse Attacks in Obfuscated Programs". Naiqian Zhang, Daroc Alden, Dongpeng Xu, Shuai Wang, Trent Jaeger and Wheeler Ruml.
+ - "Towards Rolling Stock Preventive Maintenance Scheduling - Short-term Scheduling Optimisation". Hassna Louadah, Thomas Leo McCluskey, Gareth Tucker and Emmanouil Papadakis.
+---
+[3:30 - 4:00] - Coffee Break
+---
+[4:00 - 5:00] - Discussion and closing
+---
